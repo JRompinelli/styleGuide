@@ -1,0 +1,110 @@
+
+body {
+    font-family: 'Kufam', cursive;
+    margin:0 10%;
+    background-color: rgb(15, 15, 90);
+}
+
+.container {
+    font-family: 'Potta One', cursive;
+    padding: 30px;
+    margin: 10px auto;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 22px;
+}
+
+.color-container {
+    width: 120%;
+}
+
+.panel {
+    display: inline-block;
+    width: 14.5%;
+    text-align: center;
+    margin: 0px auto;
+    min-height: 250px;
+    border-radius: 10%;
+}
+
+.bluelight {
+    background-color: #5EBEFF;
+    color: black;
+}
+
+.white {
+    background-color: #FDFDFE;
+}
+
+.blue {
+    background-color:#0F88FF;
+    color: white;
+}
+
+.purple {
+    background-color: #8844F6;
+    color: white;
+}
+
+.gray {
+    background-color: #A3A8D1;
+}
+
+h1 {
+    color: white;
+    font-size: 55px;
+    font-family: 'Kufam', cursive;
+    text-align: center;
+}
+
+h2 {
+    color: white;
+    font-size: 40px;
+}
+
+.font-panel {
+    width: 33%;
+    display: inline-block;
+    color: white;
+    margin-bottom: 8px;
+}
+
+.regular {
+    font-style: normal;
+}
+  
+.italic {
+    font-style: italic;
+}
+  
+.bold {
+    font-weight: 700;
+}
+
+.kufam{
+    font-family: 'Kufam', sans-serif;
+}
+
+.potta-one {
+    font-family: 'Potta One', sans-serif;
+}
+
+.open-sans {
+    font-family: 'Open Sans' sans-serif;
+}
+
+.text-container {
+    color: white;
+    text-align: left;
+}
+
+.texth1 {
+    text-align: left;
+    font-size: 44px;
+}
+
+li {
+    font-size: 20px;
+}
