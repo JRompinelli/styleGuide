@@ -17,10 +17,10 @@ Project made for Codecademy's Full-Stack learning path.
 * CSS3
 
 ## Setup
-
+https://jrompinelli.github.io/styleGuide/.
 
 ## Status
-Project is: _in progress_.
+Project is: _finalized_.
 
 ## Inspiration
 Based on Codecademy example.
